@@ -1,0 +1,5 @@
+export const enum Constants {
+  DATA_SOURCE = 'DATA_SOURCE',
+  USER_REPOSITORY = 'USER_REPOSITORY',
+  USER_INTERFACE = 'USER_INTERFACE',
+}
